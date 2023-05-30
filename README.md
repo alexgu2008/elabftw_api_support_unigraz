@@ -185,6 +185,6 @@ You can find further usage options in the [official documentation](https://doc.e
 
 ## Contact
 
-*SysAdmin:* *Alexander* *Gruber*<br>
-<alexander.gruber@tugraz.at>
+*SysAdmin:* *Alexander* *Bardel*<br>
+<alexander.bardel@tugraz.at>
 
