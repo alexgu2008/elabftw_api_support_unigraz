@@ -41,7 +41,7 @@ from elabapi_python.rest import ApiException
 #########################
 #         CONFIG        #
 #########################
-API_HOST_URL = 'https://elabftw.tugraz.at/api/v2'
+API_HOST_URL = 'https://elabftw.uni-graz.at/api/v2'
 # replace with your api key
 API_KEY = 'API_KEY'
 #########################
